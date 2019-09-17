@@ -16,7 +16,6 @@ class: inverse center middle
 
 <p style="margin-top: 40px">{{author}}</p>
 
-
 ---
 
 # <i class="fas fa-user"></i> Chargé de cours
@@ -33,6 +32,16 @@ Security & Privacy Researcher
 
 Université de Lausanne
 ]
+
+---
+
+# <i class="fas fa-user"></i> Slides
+
+Les slides et les liens importants sont disponnible ici <i class="fas fa-hand-point-down"></i>
+
+https://tweb-classroom.github.io/slides/
+
+
 
 
 ---
@@ -210,8 +219,6 @@ Implémenter et documenter deux améliorations *significatives* au jeu vidéo.
 
 ### Soyez créatifs... ;)
 ]
-
-
 
 ---
 
