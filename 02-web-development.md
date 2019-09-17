@@ -1128,10 +1128,23 @@ class: inverse center middle
 
 class: inverse center middle
 
-# <i class="fas fa-tasks"></i> Group Assignment
+# <i class="fas fa-tasks"></i> Group Assigment
 
 ---
 
-## <i class="fas fa-tasks"></i> Group Assignment
+#  <i class="fas fa-tasks"></i> Group Assigment
 
-https://classroom.github.com/classrooms/54867215-tweb-classroom
+- Form groups of max. 4 students.
+
+- Install Visual Studio Code, Node.js and Docker.
+
+- If needed, watch Olivier's [webcast](https://www.youtube.com/watch?v=4PfHxwmTJR8&list=PLfKkysTy70QZUPYjLkkYcwqvVph4q9cKZ) to setup your environment.
+
+- Go to the [Github Classroom](https://classroom.github.com/classrooms/54867215-tweb-classroom) and start exercise 1 (HTML & CSS).
+
+- **Interact** with the assistants if needed... ;)
+
+- The repository will be frozen **next Tuesday at 12am**.
+
+
+

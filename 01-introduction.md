@@ -18,7 +18,7 @@ class: inverse center middle
 
 ---
 
-# <i class="fas fa-user"></i> Chargé de cours
+# <i class="fas fa-user"></i> Chargé de Cours et Assistants
 .left-column[
 <img src="images/profile.jpg" width="140" style="margin-top: 40px" />
 ]
@@ -31,8 +31,15 @@ bertil.chapuis@heig-vd.ch
 Security & Privacy Researcher
 
 Université de Lausanne
+
+## Guillaume Serneels
+
+## Gabriel Luthier
+
 ]
 
+
+## 
 ---
 
 # <i class="fas fa-user"></i> Slides
