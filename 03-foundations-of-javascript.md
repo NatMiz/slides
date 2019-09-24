@@ -54,23 +54,9 @@ You can answer to the following Quiz on Speakup.
 
 http://www.speakup.info/
 
-Room Number:  **82115**
+Room Number:  **XXXXX**
 
 Once connected, answer to the first test question.
-
----
-
-# <i class="fas fa-question-circle"></i> Warmup
-
-Qui est l'inventeur du World Wide Web?
-
-**A)** Tim Bruce-Lee
-
-**B)** Tim Berners-Lee
-
-**C)** Kim Berners-Un
-
-**D)** Arnold Schwarzeneggers-Lee
 
 ---
 
@@ -80,7 +66,7 @@ A quelle couche de la Suite des protocoles Internet (Internet Protocol Suite) le
 
 **A)** Application
 
-**B)** Transport
+**B)** **Transport**
 
 **C)** Internet
 
@@ -94,7 +80,7 @@ Quel protocol est utilisé par DNS pour transférer les fichiers de Zone?
 
 **A)** HTTP
 
-**B)** TCP
+**B)** **TCP**
 
 **C)** IP
 
@@ -110,7 +96,7 @@ Qu'est qu'un Root Server dans le Domain Name System (DNS)?
 
 **B)** Un serveur qui gère la racine des noms appartenant à un domaine (domaine1.com, domaine2.com, etc.)
 
-**C)** Un serveur qui gère la racine des noms de domaine (com, org, net, etc.)
+**C)** **Un serveur qui gère la racine des noms de domaine (com, org, net, etc.)**
 
 **D)** Aucune affirmation correcte
 
@@ -120,7 +106,7 @@ Qu'est qu'un Root Server dans le Domain Name System (DNS)?
 
 Dans le domaine `www.example.com`, qu'est-ce que le sous-domaine (subdomain)?
 
-**A)** www
+**A)** **www**
 
 **B)** example
 
@@ -140,7 +126,7 @@ A quoi sert un DNS lookup?
 
 **C)** A visualiser la route prise par les packets sur le réseau?
 
-**D)** Aucune affirmation correcte
+**D)** **Aucune affirmation correcte**
 
 ---
 
@@ -156,7 +142,7 @@ A quelle partie de l'url correspond le fragment?
 
 **C)** tim:1234
 
-**D)** #home
+**D)** **#home**
 
 **E)** https://
 
@@ -166,11 +152,11 @@ A quelle partie de l'url correspond le fragment?
 
 Une requête HTTP contient toujours:
 
-**A)** une méthode
+**A)** **une méthode**
 
-**B)** une resource
+**B)** **une resource**
 
-**C)** des headers
+**C)** **des headers**
 
 **D)** un body
 
@@ -190,7 +176,7 @@ Parmis les éléments suivants, identifiez le ou lesquels correspondent à du HT
 
 **B)** `<img src="image.jpg" />`
 
-**C)** `<p>Mon paragraphe</p>`
+**C)** **`<p>Mon paragraphe</p>`**
 
 **D)** `<!DOCTYPE html>`
 
@@ -208,7 +194,7 @@ Qu'est ce que le DOM?
 
 **C)** Un language de programmation permettant de manipuler des documents
 
-**D)** Aucune réponse correcte
+**D)** **Aucune réponse correcte**
 
 ---
 
@@ -216,7 +202,7 @@ Qu'est ce que le DOM?
 
 Qu'est-ce qu'une déclaration CSS?
 
-**A)** Une paire propriété et valeur
+**A)** **Une paire propriété et valeur**
 
 **B)** Un bloc contenant une liste de propriétés CSS
 
@@ -248,11 +234,13 @@ Quelles elements HTML de la structure suivante sont sélectionnés par le select
 </ul>
 ```
 
+Bonne réponses: A, D, F
+
 ---
 
 # <i class="fas fa-question-circle"></i> Question 12
 
-A quel rendu correspond le code HTML/CSS suivant?
+A quel rendu correspond le code HTML/CSS suivant? (Bonne réponse: C)
 
 ```html
 <div id="a">
@@ -280,6 +268,8 @@ A quel rendu correspond le code HTML/CSS suivant?
 <img src="images/quiz_html_css_c.png" style="width:250px">
 <img src="images/quiz_html_css_a.png" style="width:250px">
 <img src="images/quiz_html_css_d.png" style="width:250px">
+
+
 
 ---
 
