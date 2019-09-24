@@ -54,7 +54,7 @@ You can answer to the following Quiz on Speakup.
 
 http://www.speakup.info/
 
-Room Number:  **27411**
+Room Number:  **82115**
 
 Once connected, answer to the first test question.
 
