@@ -812,6 +812,14 @@ factorial(5) // 5 * 4 * 3 * 2 * 1 = 120
 
 ---
 
+## <i class="fas fa-hand-paper"></i> JavaScript DevTools
+
+- Experiment with the Chrome DevTools
+
+- Experiment with the Visual Studio Code
+
+---
+
 ## <i class="fas fa-hand-paper"></i> JavaScript Exercise
 
 - Implement a recursive function that computes the fibonacci sequence.
