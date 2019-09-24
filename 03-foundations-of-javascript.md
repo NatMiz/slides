@@ -66,7 +66,7 @@ A quelle couche de la Suite des protocoles Internet (Internet Protocol Suite) le
 
 **A)** Application
 
-**B)** _Transport_
+**B)** __Transport__
 
 **C)** Internet
 
@@ -80,7 +80,7 @@ Quel protocol est utilisé par DNS pour transférer les fichiers de Zone?
 
 **A)** HTTP
 
-**B)** _TCP_
+**B)** __TCP__
 
 **C)** IP
 
@@ -96,7 +96,7 @@ Qu'est qu'un Root Server dans le Domain Name System (DNS)?
 
 **B)** Un serveur qui gère la racine des noms appartenant à un domaine (domaine1.com, domaine2.com, etc.)
 
-**C)** _Un serveur qui gère la racine des noms de domaine (com, org, net, etc.)_
+**C)** __Un serveur qui gère la racine des noms de domaine (com, org, net, etc.)__
 
 **D)** Aucune affirmation correcte
 
@@ -106,7 +106,7 @@ Qu'est qu'un Root Server dans le Domain Name System (DNS)?
 
 Dans le domaine `www.example.com`, qu'est-ce que le sous-domaine (subdomain)?
 
-**A)** _www_
+**A)** __www__
 
 **B)** example
 
@@ -126,7 +126,7 @@ A quoi sert un DNS lookup?
 
 **C)** A visualiser la route prise par les packets sur le réseau?
 
-**D)** _Aucune affirmation correcte_
+**D)** __Aucune affirmation correcte__
 
 ---
 
@@ -142,7 +142,7 @@ A quelle partie de l'url correspond le fragment?
 
 **C)** tim:1234
 
-**D)** _#home_
+**D)** __#home__
 
 **E)** https://
 
@@ -152,11 +152,11 @@ A quelle partie de l'url correspond le fragment?
 
 Une requête HTTP contient toujours:
 
-**A)** _une méthode_
+**A)** __une méthode__
 
-**B)** _une resource_
+**B)** __une resource__
 
-**C)** _des headers_
+**C)** __des headers__
 
 **D)** un body
 
@@ -176,7 +176,7 @@ Parmis les éléments suivants, identifiez le ou lesquels correspondent à du HT
 
 **B)** `<img src="image.jpg" />`
 
-**C)** _`<p>Mon paragraphe</p>`_
+**C)** __`<p>Mon paragraphe</p>`__
 
 **D)** `<!DOCTYPE html>`
 
@@ -194,7 +194,7 @@ Qu'est ce que le DOM?
 
 **C)** Un language de programmation permettant de manipuler des documents
 
-**D)** _Aucune réponse correcte_
+**D)** __Aucune réponse correcte__
 
 ---
 
@@ -202,7 +202,7 @@ Qu'est ce que le DOM?
 
 Qu'est-ce qu'une déclaration CSS?
 
-**A)** _Une paire propriété et valeur_
+**A)** __Une paire propriété et valeur__
 
 **B)** Un bloc contenant une liste de propriétés CSS
 
