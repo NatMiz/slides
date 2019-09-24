@@ -58,7 +58,9 @@ The .red[Internet Protocol Suite] is the conceptual model and set of communicati
 
 ##  <i class="fas fa-network-wired"></i> Internet's Conceptual Model
 
-<img alt="Networking" src="images/network_reminder.svg" style="width: 125%;margin-left: -100px" />
+.center[
+<img alt="Networking" src="images/network_reminder.svg" style="width: 100%;" />
+]
 
 ---
 
@@ -67,7 +69,9 @@ The .red[Internet Protocol Suite] is the conceptual model and set of communicati
 The .red[Domain Name System (DNS)] is a hierarchical and decentralized naming system (phone book) for computers connected to the Internet. 
 It translates domain names to IP addresses needed for locating and identifying computer.
 
-<img alt="Networking" src="images/network_dns.svg" style="width: 100%;" />
+.center[
+<img alt="Networking" src="images/network_dns.svg" style="width: 75%;" />
+]
 
 The DNS protocol uses .red[TCP] for Zone transfer and .red[UDP] for name queries.
 
@@ -182,22 +186,24 @@ Today, the Web is constently evolving under the guidance of the World Wide Web C
 
 ## <i class="fas fa-window-maximize"></i> Mozilla's Definition .red[*]
 
-<img alt="The Web" src="images/HTTP_layers.png" style="text-align: center; width: 90%;" />
+.center[
+<img alt="The Web" src="images/HTTP_layers.png" style="width: 60%;" />
+]
 
 .footnote[.red[*] https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview]
 
 ---
 
 ## <i class="fas fa-window-maximize"></i>  W3C's Standards
-
-<img alt="The Web" src="images/web_standards.png" style="text-align: center; width: 100%;" />
-
+.center[
+<img alt="The Web" src="images/web_standards.png" style="width: 80%;" />
+]
 ---
 
 ## <i class="fas fa-window-maximize"></i>  Mozilla's Web APIs
-
-<img alt="The Web" src="images/web_api.png" style="text-align: center; width: 100%;" />
-
+.center[
+<img alt="The Web" src="images/web_api.png" style="width: 80%;" />
+]
 ---
 
 class: inverse center middle
@@ -213,6 +219,7 @@ A Uniform Resource Locator (URL), colloquially termed a web address, is a refere
 ```bash
 https://username:password@example.com:443/index.html?param=value#fragment
 ```
+
 | Part        | Value                | Description                                          |
 |-------------|----------------------|------------------------------------------------------|
 | Scheme      | `https://`           | The protocol to use for the request.                 |
@@ -351,7 +358,7 @@ Get to know your methods and status codes!
 
 ---
 .center[
-<img src="images/http_zine.png" style="width: 50%" />
+<img src="images/http_zine.png" style="width: 35%" />
 
 https://gumroad.com/l/http-zine/buy-one-give-one
 ]
@@ -876,7 +883,7 @@ td:nth-child(2n) { background-color: gray; }
 ## <i class="fas fa-paint-brush"></i> More Pseudo-classes
 
 .center[
-<img src="images/css_pseudoclass.png" style="width:100%">
+<img src="images/css_pseudoclass.png" style="width:80%">
 ]
 
 ---
@@ -1018,7 +1025,7 @@ div {
 
 The browser's rendering engine represents each element as a rectangular box according to the standard CSS basic box model.
 
-<img src="images/css_box_model.png" style="width: 40%">
+<img src="images/css_box_model.png" style="width: 28%">
 
 
 
@@ -1088,11 +1095,11 @@ The flexbox model addresses the limits of the layout system (grid) in CSS.
 
 ---
 
-#  <i class="fas fa-paint-brush"></i> CSS Media Queries .red[*]
+##  <i class="fas fa-paint-brush"></i> CSS Media Queries .red[*]
 
 Media queries are useful when you want to modify your site or app depending on a device's general type (such as print vs. screen) or specific characteristics and parameters (such as screen resolution or browser viewport width).
 
-```
+```css
 @media only screen and (min-width : 600px) {
   body {
     color: red
@@ -1104,13 +1111,14 @@ Media queries are useful when you want to modify your site or app depending on a
 
 ---
 
-class: inverse center middle
+class: center middle inverse
 
-# <i class="fas fa-tasks"></i> Summary
+
+# <i class="fas fa-hand-paper"></i> Questions ?
 
 ---
 
-## <i class="fas fa-tasks"></i> Summary of Today's Class
+## <i class="fas fa-hand-paper"></i> Questions about Today's Lecture
 
 - Internet
 
@@ -1128,23 +1136,30 @@ class: inverse center middle
 
 class: inverse center middle
 
-# <i class="fas fa-tasks"></i> Group Assigment
+# <i class="fas fa-tasks"></i> Group Assignment
 
 ---
 
-#  <i class="fas fa-tasks"></i> Group Assigment
+#  <i class="fas fa-tasks"></i> Group Assignment
 
-- Form groups of max. 4 students.
+- Form groups of max. 4 students
 
-- Install Visual Studio Code, Node.js and Docker.
+- Install Visual Studio Code, Node.js and Docker
 
-- If needed, watch Olivier's [webcast](https://www.youtube.com/watch?v=4PfHxwmTJR8&list=PLfKkysTy70QZUPYjLkkYcwqvVph4q9cKZ) to setup your environment.
+- If needed, watch Olivier's [webcast](https://www.youtube.com/watch?v=4PfHxwmTJR8&list=PLfKkysTy70QZUPYjLkkYcwqvVph4q9cKZ) to setup your environment
 
-- Go to the [Github Classroom](https://classroom.github.com/classrooms/54867215-tweb-classroom) and start exercise 1 (HTML & CSS).
+- Go to the [Github Classroom](https://classroom.github.com/classrooms/54867215-tweb-classroom) and start exercise 1 (HTML & CSS)
 
 - **Interact** with the assistants if needed... ;)
 
-- The repository will be frozen **next Tuesday at 12am**.
+- The repository will be frozen **next Tuesday at 12am**
 
+
+---
+
+class: center middle
+
+
+# <i class="fas fa-hand-paper"></i> Questions ?
 
 

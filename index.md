@@ -1,10 +1,11 @@
 title: TWeb
-subtitle: <i class="fas fa-tasks"></i> Course
+subtitle: <i class="fas fa-tasks"></i> Course Website
 author: Bertil Chapuis
 class: animation-fade
 layout: true
 
 <!-- This slide will serve as the base layout for all your slides -->
+
 
 ---
 
@@ -18,26 +19,21 @@ class: inverse center middle
 
 ---
 
-# <i class="fab fa-github"></i> Important links
+# <i class="fas fa-link"></i> Important links
 
-Course website:
-
+Course website: <br>
 https://tweb-classroom.github.io/slides/
 
-Github Classroom to form groups and submit assignments:
-
+Github Classroom to form groups and submit assignments:<br>
 https://classroom.github.com/classrooms/54867215-tweb-classroom
 
-Github Group to create and access course repositories:
-
+Github Group to create and access course repositories:<br>
 https://github.com/tweb-classroom
 
-Channel Telegram pour les annonces:
-
+Channel Telegram pour les annonces:<br>
 https://t.me/joinchat/AAAAAFg5D6epsXCYE41Ozg
 
-Groupe Telegram de Questions/Réponses:
-
+Groupe Telegram de Questions/Réponses:<br>
 https://t.me/joinchat/BefqDFgADbd9SEbl-D_ZOg
 
 ---
@@ -46,7 +42,6 @@ https://t.me/joinchat/BefqDFgADbd9SEbl-D_ZOg
 
 - [Introduction](https://tweb-classroom.github.io/slides/01-introduction.html)
 - [Web Development](https://tweb-classroom.github.io/slides/02-web-development.html)
-- Fundations of Javascript
-- Object Oriented Programming in Javascript
-- Functionnal Programming in Javascript
+- [Foundations of Javascript](https://tweb-classroom.github.io/slides/03-foundations-of-javascript.html)
+
 

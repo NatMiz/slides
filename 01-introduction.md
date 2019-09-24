@@ -38,19 +38,6 @@ Université de Lausanne
 
 ]
 
-
-## 
----
-
-# <i class="fas fa-user"></i> Slides
-
-Les slides et les liens importants sont disponnible ici <i class="fas fa-hand-point-down"></i>
-
-https://tweb-classroom.github.io/slides/
-
-
-
-
 ---
 
 # <i class="fas fa-graduation-cap"></i> Connaissances Préalables
