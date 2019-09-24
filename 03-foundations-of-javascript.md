@@ -390,6 +390,15 @@ Today, JavaScript is commonly used in the browser (client-side) and on the serve
 
 ---
 
+## <i class="fab fa-js"></i> Eloquent Javascript.red[*]
+
+<img src="images/js_eloquent_javascript.jpg" style="width: 30%" />
+
+
+.footnote[.red[*] https://eloquentjavascript.net/]
+
+---
+
 ## <i class="fab fa-js"></i>Client-side Javascript
 
 Include JavaScript stored in the HTML:
