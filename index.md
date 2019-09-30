@@ -43,5 +43,6 @@ https://t.me/joinchat/BefqDFgADbd9SEbl-D_ZOg
 - [Introduction](https://tweb-classroom.github.io/slides/01-introduction.html)
 - [Web Development](https://tweb-classroom.github.io/slides/02-web-development.html)
 - [Foundations of Javascript](https://tweb-classroom.github.io/slides/03-foundations-of-javascript.html)
+- [Object-oriented Javascript](https://tweb-classroom.github.io/slides/04-04-object-oriented-javascript.html)
 
 

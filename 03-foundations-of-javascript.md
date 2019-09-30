@@ -269,8 +269,6 @@ A quel rendu correspond le code HTML/CSS suivant? (Bonne réponse: C)
 <img src="images/quiz_html_css_a.png" style="width:250px">
 <img src="images/quiz_html_css_d.png" style="width:250px">
 
-
-
 ---
 
 class: inverse center middle
@@ -289,6 +287,8 @@ class: center middle
 
 
 # <i class="fas fa-hand-paper"></i> Questions ?
+
+
 
 
 ---
@@ -444,31 +444,31 @@ Hello World!
 
 ---
 
-## <i class="fab fa-js"></i> JavaScript's Primitive Types
+## <i class="fab fa-js"></i> JavaScript's Types
 
-JavaScript defines 6 type for values.
+ECMAScript defines 7 **primitive** (Immutable) types for values.
 
 ```js
-// number
-3.14;
+3.14; // Number
+true; // Boolean
+"Heig-vd"; // String
+undefined; // Undefined
+null; // Null
+9007199254740992n; // BigInt
+Symbol("Symbol") // Symbol
+```
 
-// boolean
-true;
+ECMAScript defines a special mutable type called **object** for collections of properties (objects and array).
 
-// string
-"Heig-vd";
-
-// object
-{prop: "value"};
-
-// undefined
-undefined;
-
-// null
-null;
+```js
+{prop: "value"}; // Object
 ```
 
 In a dynamic language you don't specify the type when you declare a variable and the type of a variable can change.
+
+.footnote[.red[*] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Data_types]
+
+
 
 ---
 
