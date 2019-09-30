@@ -794,3 +794,23 @@ ctx.restore();
 .center[
 <canvas id="canvas" width="400" height="400" style="border: solid 1px black; margin-top: 50px"></canvas>
 ]
+
+---
+
+## Rendering Loop and Game Loop .red[*]
+
+The [setTimeout](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout) method sets a timer which executes a function or specified piece of code once the timer expires.
+
+The [setInterval](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval) method, offered on the Window and Worker interfaces, repeatedly calls a function or executes a code snippet, with a fixed time delay between each call. 
+
+The [requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame) method tells the browser that you wish to perform an animation and requests that the browser call a specified function to update an animation before the next repaint.
+
+
+.footnote[.red[*] https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals]
+
+---
+
+class: center middle
+
+
+# <i class="fas fa-hand-paper"></i> Questions ?
