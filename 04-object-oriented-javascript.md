@@ -288,7 +288,7 @@ The JavaScript `Array` object is a global object that is used in the constructio
 
 ```js
 var fruits = ['Apple', 'Banana', 'Pear'];
-fruits[fruits.length - 1]; // Apple
+fruits[fruits.length - 1]; // Pear
 fruits.1; // Uncaught SyntaxError: Unexpected number (not allowed by the dot-notation: ^[a-z]+(_[a-z]+)+$)
 fruits.property = 'value'; // This is another property of the object
 ```
@@ -355,7 +355,7 @@ var apple = {
         return `This fruit is ${this.color}!`;
     }
 }
-console.log(apple.toString());
+console.log(apple.toString()); // This fruit is red!
 ```
 
 ---
@@ -378,7 +378,7 @@ var apple = {
         return helper();
     }
 }
-console.log(apple.toString()); // This fruit is red!
+console.log(apple.toString()); // This fruit is blue!
 ```
 
 This issue can be addressed with:
@@ -406,7 +406,7 @@ Fruit.prototype.toString = function() {
 }
 
 var apple = new Fruit("red");
-console.log(apple.toString());
+console.log(apple.toString()); // This fruit is red!
 ```
 
 ---
@@ -432,7 +432,7 @@ function Apple(color, name) {
 Apple.prototype = Object.assign(Apple.prototype, Fruit.prototype);
 
 var apple = new Apple("red", "golden");
-console.log(apple.toString());
+console.log(apple.toString()); // This fruit is red!
 ```
 
 When a lookup fails on the apple object, it now falls back on the Fruit `prototype`.
@@ -465,7 +465,7 @@ class Apple extends Fruit {
     }
 }
 var apple = new Apple("red", "golden");
-console.log(apple.toString());
+console.log(apple.toString()); // This fruit is red!
 
 ```
 
