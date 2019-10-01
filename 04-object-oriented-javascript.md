@@ -550,13 +550,13 @@ console.log(new Apple());
 // inside apple.js
 import Fruit from 'fruit.js';
 class Apple extends Fruit {}
-export Apple;
+export {Apple};
 ```
 
 ```js
 // inside fruit.js
 class Fruit {}
-export Fruit;
+export {Fruit};
 ```
 
 Have a look at the documentation for `default` exports and `import * as Module from './modules/module.js';`.
@@ -722,7 +722,7 @@ ctx.clearRect(0, 0, 100, 100);
 ```
 
 
-.footnote[.red[*] https://developer.mozilla.org/en-US/docs/Web/API/Canvas_APIs]
+.footnote[.red[*] https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API]
 
 
 ---
@@ -758,7 +758,7 @@ ctx.lineTo(50, 50);
 ctx.stroke();
 ```
 
-.footnote[.red[*] https://developer.mozilla.org/en-US/docs/Web/API/Canvas_APIs]
+.footnote[.red[*] https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API]
 
 ---
 
@@ -786,7 +786,7 @@ while (angle < 2 * Math.PI) {
 ctx.restore();
 ```
 
-.footnote[.red[*] https://developer.mozilla.org/en-US/docs/Web/API/Canvas_APIs]
+.footnote[.red[*] https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Transformations]
 ---
 
 ## <i class="fas fa-hand-paper"></i>Drawing in the Canvas .red[*]

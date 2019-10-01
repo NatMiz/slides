@@ -220,15 +220,18 @@ Implémenter et documenter deux améliorations *significatives* au jeu vidéo.
 
 - Exercices guidés (20%)
 - Projet (20%)
-- Examen intermédiaire (20%)
-- Examen final (40%)
+- Contrôle continu: **2019-11-11** (15%)
+- Contrôle continu: **2019-12-09** (15%)
+- Contrôle continu: **2020-01-20** (30%)
+
+
 ---
 
 # <i class="fas fa-window-restore"></i>  Plateforme d'enseignement
 
 - [Github Classroom](https://classroom.github.com/classrooms/54867215-tweb-classroom) est utilisé pour former les groupe et rendre les travaux pratiques.
 
-- [Github Organisation]() est utilisé pour stocker le support de cours, le code source et les exemples vu en cours.
+- [Github Organisation](https://github.com/tweb-classroom) est utilisé pour stocker le support de cours, le code source et les exemples vu en cours.
 
 - [Telegram](https://t.me/joinchat/AAAAAFg5D6epsXCYE41Ozg) est utilisé pour diffuser les informations liées au cours.
 
