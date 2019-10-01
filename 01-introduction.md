@@ -34,7 +34,7 @@ Université de Lausanne
 
 ## Guillaume Serneels
 
-## Gabriel Luthier
+## Guillaume Hochet
 
 ]
 
