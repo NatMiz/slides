@@ -662,7 +662,7 @@ Event handlers can also be registered from the HTML.
 Libraries such as [jQuery](https://jquery.com/) and [Zepto](https://jquery.com/) are intended at simplifying DOM manipulation by extending the DOM and providing helpers.
 
 ```html
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<scriptt src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></scriptt>
 ```
 
 ```js
