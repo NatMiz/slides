@@ -550,13 +550,13 @@ console.log(new Apple());
 // inside apple.js
 import Fruit from 'fruit.js';
 class Apple extends Fruit {}
-export {Apple};
+export Apple;
 ```
 
 ```js
 // inside fruit.js
 class Fruit {}
-export {Fruit};
+export Fruit;
 ```
 
 Have a look at the documentation for `default` exports and `import * as Module from './modules/module.js';`.
@@ -776,11 +776,11 @@ When you perform transformations on the grid to draw an object you often want to
 ctx.fillStyle = 'rgb(0, 0, 255, 0.4)';
 ctx.save();
 angle = 0;
-while (angle < 2 * Math.PI) {
+while (angle < Math.PI/2) {
     ctx.translate(200, 200);
     ctx.rotate(Math.PI / 10);
     ctx.translate(-200, -200);
-    ctx.fillRect(200, 200, 50, 50);
+    ctx.fillRect(170, 170, 60, 60);
     angle += Math.PI / 10;
 }
 ctx.restore();
