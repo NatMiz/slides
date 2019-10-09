@@ -285,7 +285,6 @@ for (let k of iterable) {
 
 .footnote[.red[*] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators]
 
-
 ---
 
 ## <i class="fab fa-js"></i> Javascript Generator .red[*]
