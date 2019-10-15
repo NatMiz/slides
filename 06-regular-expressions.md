@@ -66,10 +66,19 @@ var books = ["Fantastic Mr Fox", " The Fox and the Star", "The Fox and the Hound
 
 var index = books.map().flatMap().reduce();
 
-// 1. Normalize and split the book titles
-// 2. Filter the stopwords out of the list of words
-// 3. Build tuples of word and position in the array
-// 4. Build the inverted index
+var stopwords = ["the", "and", "a", "in"]
+var books = ["Fantastic Mr Fox", " The Fox and the Star", "The Fox and the Hound", "Fox in Socks", "Maybe a Fox"];
+
+// Solution presented in class
+var index = books
+    .map(book => book.toLowerCase().split(" ")) 
+    .map(words => words.filter(word => word != '' && !stopwords.includes(word))) 
+    .flatMap((words, position) => words.map(word => [word, position]))
+    .reduce((dict, [word, position]) => {
+        dict[word] = dict[word] || [];
+        dict[word].push(position);
+        return dict;
+    }, {});
 
 index["fox"] // [0, 1, 2, 3, 4]
 index["fantastic"] // [0]
@@ -303,3 +312,5 @@ app.post('/form/', (req, res) => {
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))
 ```
+
+.footnote[.red[*] https://github.com/tweb-classroom/example-express]
