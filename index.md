@@ -44,5 +44,6 @@ https://t.me/joinchat/BefqDFgADbd9SEbl-D_ZOg
 - [Web Development](https://tweb-classroom.github.io/slides/02-web-development.html)
 - [Foundations of Javascript](https://tweb-classroom.github.io/slides/03-foundations-of-javascript.html)
 - [Object-oriented Javascript](https://tweb-classroom.github.io/slides/04-object-oriented-javascript.html)
-
+- [Testing Javascript Applications](https://tweb-classroom.github.io/slides/05-testing-javascript-applications.html)
+- [Regular Expressions](https://tweb-classroom.github.io/slides/06-regular-expressions.html)
 
