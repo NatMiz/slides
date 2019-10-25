@@ -1,5 +1,5 @@
-title: <i class="fas fa-window-maximize"></i> Web Development
-subtitle: TWEB
+title: TWEB
+subtitle: <i class="fas fa-window-maximize"></i> Web Development
 author: Bertil Chapuis
 layout: true
 
