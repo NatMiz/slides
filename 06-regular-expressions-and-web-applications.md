@@ -58,7 +58,7 @@ Sooner or later!
 # <i class="fas fa-question-circle"></i> Coding Challenge
 
 
-Ecriver un programme qui, étant donné les titres de livres suivant, crée un index inversé.
+Ecrivez un programme qui, étant donné les titres de livres suivants, crée un index inversé.
 
 ```js
 var stopwords = ["the", "and", "a", "in"]
@@ -93,11 +93,9 @@ class: inverse center middle
 
 ---
 
-## <i class="fas fa-hand-paper"></i> Ex5: Keyboard Events
+class: center middle
 
-.center[
-<img src="images/ex5_screenshot.png"  style="width:500px; margin-top: 50px" />
-]
+## <i class="fas fa-hand-paper"></i> Ex5: Express and Form Validation
 
 ---
 

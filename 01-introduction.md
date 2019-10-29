@@ -168,6 +168,7 @@ Comprendre et connaitre les fondamentaux du web en tant que plateforme pour mieu
 - Sécuriser les applications web (*3 périodes*)
 - Intervenants externes (*3 périodes*)
 - Révisions (*3 périodes*)
+
 ---
 
 # <i class="fas fa-users-cog"></i> Travaux pratiques
