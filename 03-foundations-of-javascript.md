@@ -66,7 +66,7 @@ A quelle couche de la Suite des protocoles Internet (Internet Protocol Suite) le
 
 **A)** Application
 
-**B)** __Transport__
+**B)** ***Transport***
 
 **C)** Internet
 
@@ -80,7 +80,7 @@ Quel protocol est utilisé par DNS pour transférer les fichiers de Zone?
 
 **A)** HTTP
 
-**B)** __TCP__
+**B)** ***TCP***
 
 **C)** IP
 
@@ -96,7 +96,7 @@ Qu'est qu'un Root Server dans le Domain Name System (DNS)?
 
 **B)** Un serveur qui gère la racine des noms appartenant à un domaine (domaine1.com, domaine2.com, etc.)
 
-**C)** __Un serveur qui gère la racine des noms de domaine (com, org, net, etc.)__
+**C)** ***Un serveur qui gère la racine des noms de domaine (com, org, net, etc.)***
 
 **D)** Aucune affirmation correcte
 
@@ -106,7 +106,7 @@ Qu'est qu'un Root Server dans le Domain Name System (DNS)?
 
 Dans le domaine `www.example.com`, qu'est-ce que le sous-domaine (subdomain)?
 
-**A)** __www__
+**A)** ***www***
 
 **B)** example
 
@@ -126,7 +126,7 @@ A quoi sert un DNS lookup?
 
 **C)** A visualiser la route prise par les packets sur le réseau?
 
-**D)** __Aucune affirmation correcte__
+**D)** ***Aucune affirmation correcte***
 
 ---
 
@@ -142,7 +142,7 @@ A quelle partie de l'url correspond le fragment?
 
 **C)** tim:1234
 
-**D)** __#home__
+**D)** ***#home***
 
 **E)** https://
 
@@ -152,11 +152,11 @@ A quelle partie de l'url correspond le fragment?
 
 Une requête HTTP contient toujours:
 
-**A)** __une méthode__
+**A)** ***une méthode***
 
-**B)** __une resource__
+**B)** ***une resource***
 
-**C)** __des headers__
+**C)** ***des headers***
 
 **D)** un body
 
@@ -176,7 +176,7 @@ Parmis les éléments suivants, identifiez le ou lesquels correspondent à du HT
 
 **B)** `<img src="image.jpg" />`
 
-**C)** __`<p>Mon paragraphe</p>`__
+**C)** ***`<p>Mon paragraphe</p>`***
 
 **D)** `<!DOCTYPE html>`
 
@@ -194,7 +194,7 @@ Qu'est ce que le DOM?
 
 **C)** Un language de programmation permettant de manipuler des documents
 
-**D)** __Aucune réponse correcte__
+**D)** ***Aucune réponse correcte***
 
 ---
 
@@ -202,7 +202,7 @@ Qu'est ce que le DOM?
 
 Qu'est-ce qu'une déclaration CSS?
 
-**A)** __Une paire propriété et valeur__
+**A)** ***Une paire propriété et valeur***
 
 **B)** Un bloc contenant une liste de propriétés CSS
 
@@ -214,7 +214,7 @@ Qu'est-ce qu'une déclaration CSS?
 
 # <i class="fas fa-question-circle"></i> Question 11
 
-Quelles elements HTML de la structure suivante sont sélectionnés par le selecteur `ul li:nth-child(1)`?
+Quelles elements HTML de la structure suivante sont sélectionnés par le sélecteur `ul li:nth-child(1)`?
 
 ```html
 <ul>
@@ -287,9 +287,6 @@ class: center middle
 
 
 # <i class="fas fa-hand-paper"></i> Questions ?
-
-
-
 
 ---
 

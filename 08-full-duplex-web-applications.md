@@ -52,7 +52,7 @@ Once connected, answer to the first test question.
 
 # <i class="fas fa-question-circle"></i> Question 1
 
-Quelle est la valeur retournée par le programme suivant?
+Quelle est la valeur de l'objet JavaScript retournée par le programme suivant?
 
 ```js
 var json = '["a", "b", {"c": 1}, ["d", "2"]]';
@@ -60,8 +60,8 @@ console.log(JSON.parse(json));
 ```
 
 - Uncaught SyntaxError: Unexpected token a in JSON at position 1
-- `{"a", "b", {"c": 1}, ["d", "2"]}`
-- `["a", "b", {"c": 1}, ["d", "2"]]`
+- `{"a", "b", {c: 1}, ["d", "2"]}`
+- ***`["a", "b", {c: 1}, ["d", "2"]]`***
 - Aucune réponse correcte
 
 ---
@@ -76,7 +76,7 @@ console.log(JSON.stringify(json));
 ```
 
 - `{a:"a","b":"b"}`
-- `{"a":"a","b":"b"}`
+- ***`{"a":"a","b":"b"}`***
 - Uncaught SyntaxError: Unexpected token a in JSON at position 1
 - Aucune réponse correcte
 
@@ -86,9 +86,9 @@ console.log(JSON.stringify(json));
 
 Quelles sont les affirmation correctes à propos de la programmation asynchrone?
 
-- Une instruction asynchrone est non-bloquante
+- ***Une instruction asynchrone est non-bloquante***
 - Une instruction asynchrone est bloquante
-- Les instructions asynchrones sont executée dans la boucle d'évènements (Event Loop)
+- ***Les instructions asynchrones sont executée dans la boucle d'évènements (Event Loop)***
 - La programation asynchrone est toujours basée sur les callbacks
 - Aucune réponse correcte
 
@@ -107,7 +107,7 @@ console.log(value);
 - `1`
 - `2`
 - `3`
-- `1` ou `2`
+- ***`1` ou `2`*** (Non déterministe à cause de l'event loop)
 - `1` ou `3`
 - Aucune réponse correcte
 
@@ -119,16 +119,17 @@ Quelle est la valeur affichée par le programme suivant?
 
 ```html
 <script>
-    async function f() {
-        return 1;
-    }
-    console.log(await f());
-<script>
+  async function f() {
+    return 1;
+  }
+  var v = await f();
+  console.log(v);
+</script>
 ```
 
 - `1`
-- une prommesse
-- une erreur
+- une promesse
+- ***Uncaught SyntaxError: await is only valid in async function***
 - Aucune réponse correcte
 
 ---
@@ -151,7 +152,7 @@ var promise = new Promise(function(resolve, reject) {
 
 - pending
 - resolved
-- settled
+- ***settled***
 - rejected
 - Aucune réponse correcte
 

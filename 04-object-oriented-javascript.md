@@ -70,15 +70,15 @@ Cochez la ou les affirmations correcte(s) à propos de Javascript:
 
 - JavaScript est un language compilé
 
-- JavaScript est un language interpreté
+- ***JavaScript est un language interpreté***
 
 - JavaScript est un language statique
 
-- JavaScript est un language dynamique
+- ***JavaScript est un language dynamique***
 
 - JavaScript est un language orienté objet
 
-- JavaScript est un language orienté prototype
+- ***JavaScript est un language orienté prototype***
 
 - Aucune affirmation correcte
 
@@ -88,7 +88,7 @@ Cochez la ou les affirmations correcte(s) à propos de Javascript:
 
 Quelle est la visibilité (scope) d'une variable définie avec le mot clé var en dehors d'une fonction?
 
-- Sa visibilité est globale
+- ***Sa visibilité est globale***
 
 - Sa visibilité est locale
 
@@ -108,7 +108,7 @@ console.log("PI = ${Math.PI}");
 
 - `"PI = 3.141592653589793"`
 
-- `"PI = ${Math.PI}"`
+- ***`"PI = ${Math.PI}"`***
 
 - `"PI = 3.14"`
 
@@ -127,7 +127,7 @@ let i = 0;
 console.log(i++);
 ```
 
-- `0`
+- ***`0`***
 
 - `1`
 
@@ -155,7 +155,7 @@ console.log(x);
 
 - `1`
 - `"1"`
-- `2`
+- ***`2`***
 - `"2"`
 - `null`
 - Aucune réponse correcte
@@ -182,7 +182,7 @@ console.log(f());
 
 - `14`
 
-- `15`
+- ***`15`***
 
 - `16`
 
@@ -196,9 +196,6 @@ console.log(f());
 class: inverse center middle
 
 # <i class="far fa-edit"></i> Correction
-
-
-
 
 
 ---

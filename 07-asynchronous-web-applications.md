@@ -62,7 +62,7 @@ Quelle est la valeur retournée par la regex suivante?
 ```
 
 - `true`
-- `false`
+- ***`false`***
 - `"acd"`
 - `undefined`
 - `null`
@@ -78,7 +78,7 @@ Quelle est la valeur retournée par la regex suivante?
 /[a-z]*/i.test("Hello");
 ```
 
-- `true`
+- ***`true`***
 - `false`
 - `"hello"`
 - `undefined`
@@ -97,7 +97,7 @@ Quelles sont les valeurs de groupe extraites avec la regex suivante?
 
 - A
 - ABC, D, E
-- A, B, C, D, E
+- ***A, B, C, D, E***
 - A, B, C
 - D, E
 - Aucune réponse correcte
@@ -116,17 +116,15 @@ Etant donné le formulaire suivant hébergé sur l'URL http://www.example.com/, 
 </form>
 ```
 
-- `http://www.example.com/send`
-- `http://www.example.com/send?firstname=John&lastname=`
-- `http://www.example.com/submit`
-- `http://www.example.com/submit?firstname=John&lastname=Doe`
+- `http://www.example.com/send.html`
+- ***`http://www.example.com/send.html?firstname=John&lastname=`***
+- `http://www.example.com/submit.html`
+- `http://www.example.com/submit.html?firstname=John&lastname=Doe`
 - Aucune réponse correcte
-
 
 ---
 
 class: center middle
-
 
 # <i class="fas fa-hand-paper"></i> Questions ?
 

@@ -56,10 +56,10 @@ Once connected, answer to the first test question.
 # <i class="fas fa-question-circle"></i> Question 1
 
 Parmis les types suivant, lequels sont primitifs:
-- Number
+- ***Number***
 - Object
 - Array
-- Undefined
+- ***Undefined***
 - Aucune réponse correcte
 
 ---
@@ -76,7 +76,7 @@ console.log(obj[1]);
 ```
 
 - SyntaxError
-- 1
+- ***1***
 - Undefined
 - TypeError
 - NaN
@@ -100,7 +100,7 @@ for (var val in arr) {
 
 - `0 1 2 3 4`
 - `0 1 2 3 4 length`
-- `0 2 4`
+- ***`0 2 4`***
 - `0 null 2 null 4`
 - `0 undefined 2 undefined 4`
 - Aucune réponse correcte
@@ -109,12 +109,12 @@ for (var val in arr) {
 
 # <i class="fas fa-question-circle"></i> Question 4
 
-Que se passe t'il lorsque l'on ajoute une fonction au prototype d'une classe de la librarie standard.
+Que se passe-t-il lorsque l'on ajoute une fonction au prototype d'une classe de la librarie standard.
 
 - Cela est interdit
 - Les instances futures de la classe hériterons la fonction
 - La fonction est copiées instantanément dans toutes les instances existantes de la classe
-- Aucune réponse correcte
+- ***Aucune réponse correcte***
 
 ---
 
@@ -135,7 +135,7 @@ console.log(get());
 ```
 
 - 20
-- 25
+- ***25***
 - 30
 - undefined
 - aucune réponse correcte
@@ -165,7 +165,7 @@ console.log(student.get.call(anotherStudent))
 
 - 20
 - 25
-- 30
+- ***30***
 - undefined
 - aucune réponse correcte
 
@@ -186,7 +186,7 @@ console.log(student.age)
 ```
 
 - 20
-- 25
+- ***25***
 - 30
 - undefined
 - aucune réponse correcte
@@ -198,7 +198,7 @@ console.log(student.age)
 A quoi correspond la propriété `document.referrer`?
 
 - A l'adresse du site Internet visité par l'utilisateur
-- A l'adresse du site Internet depuis lequel l'utilisateur est arrivé sur le site
+- ***A l'adresse du site Internet depuis lequel l'utilisateur est arrivé sur le site***
 - A l'adresse du site Internet le plus référencé par le site visité par l'utilisateur
 - Au référend du site Internet, c'est à dire son propriétaire ou responsable
 - Aucune réponse correcte
