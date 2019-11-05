@@ -46,6 +46,6 @@ https://t.me/joinchat/BefqDFgADbd9SEbl-D_ZOg
 - [Object-oriented Javascript](https://tweb-classroom.github.io/slides/04-object-oriented-javascript.html)
 - [Testing Javascript Applications](https://tweb-classroom.github.io/slides/05-testing-javascript-applications.html)
 - [Regular Expressions and Web Applications](https://tweb-classroom.github.io/slides/06-regular-expressions-and-web-applications.html)
-- [Asynchronous Web Applications (with Fetch)](https://tweb-classroom.github.io/slides/07-asynchronous-web-applications.html)
-- [Full Duplex Web Applications (with Websocket)](https://tweb-classroom.github.io/slides/08-full-duplex-web-applications.html)
+- [Asynchronous Web Applications](https://tweb-classroom.github.io/slides/07-asynchronous-web-applications.html)
+- [Full Duplex Web Applications](https://tweb-classroom.github.io/slides/08-full-duplex-web-applications.html)
 

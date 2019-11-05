@@ -221,9 +221,9 @@ Implémenter et documenter deux améliorations *significatives* au jeu vidéo.
 
 - Exercices guidés (20%)
 - Projet (20%)
-- Contrôle continu: **2019-11-11** (15%)
-- Contrôle continu: **2019-12-09** (15%)
-- Contrôle continu: **2020-01-20** (30%)
+- Contrôle continu: **2019-11-12** (15%)
+- Contrôle continu: **2019-12-10** (15%)
+- Contrôle continu: **2020-01-21** (30%)
 
 
 ---
