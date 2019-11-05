@@ -391,16 +391,16 @@ Today, JavaScript is commonly used in the browser (client-side) and on the serve
 Include JavaScript stored in the HTML:
 
 ```html
-<script type='text/javascript'>
+<scriptt type='text/javascript'>
   console.log('Hello, World!');
   document.writeln('Hello, World!')
-</script>
+</scriptt>
 ```
 
 Include JavaScript stored in a separate file:
 
 ```html
-<script src="script.js"></script>
+<scriptt src="script.js"></scriptt>
 ```
 
 The `async` attribute indicates that the browser should load the script asynchronously and then execute it as soon as it’s downloaded.

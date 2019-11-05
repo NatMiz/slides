@@ -118,13 +118,13 @@ console.log(value);
 Quelle est la valeur affichée par le programme suivant?
 
 ```html
-<script>
+<scriptt>
   async function f() {
     return 1;
   }
   var v = await f();
   console.log(v);
-</script>
+</scriptt>
 ```
 
 - `1`
