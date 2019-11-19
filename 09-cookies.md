@@ -197,6 +197,7 @@ Clone the `example-cookie` repository in the `tweb-classroom` organization.
 It illustrates how easily this kind of attack can be achieved.
 
 .footnote[.red[*] https://developer.mozilla.org/en-US/docs/Glossary/CSRF]
+
 ---
 
 class: center middle
