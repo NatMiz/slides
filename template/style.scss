@@ -236,6 +236,11 @@ table {
   
 }
 
+.column {
+  width: 50%;
+  float: left;
+}
+
 th, td {
   border: solid 1px black;
   padding: 6px;
