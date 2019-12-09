@@ -53,11 +53,11 @@ Once connected, answer to the first test question.
 Cochez les affirmations correctes à propos des méchanismes d'autorisation (Authorization):
 
 - Les méchanismes d'authorisation concernent l'identification d'un utilisateur
-- Les méchanismes d'authorisation concernent les règles d'accès à un contenu ou à une resource
+- **Les méchanismes d'authorisation concernent les règles d'accès à un contenu ou à une resource**
 - OAuth2 est un méchanisme d'autorisation
 - Les méchanismes d'authorisation concernent l'identification d'un navigateur
-- Les méchanismes d'authorisation impliquent les notions de roles et de propriété
-- Un token JWT peut être utiliser pour implémenter un méchanisme d'autorisation
+- **Les méchanismes d'authorisation impliquent les notions de roles et de propriété**
+- **Un token JWT peut être utiliser pour implémenter un méchanisme d'autorisation**
 - Aucune réponse correcte
 
 ---
@@ -68,9 +68,9 @@ Cochez les affirmations correctes à propos de CSRF:
 
 - CSRF signifie Cross-Site Request Felony
 - Lors d'une attaque CSRF, l'attaquant injecte un code malicieux sur le site visité par la victime
-- Lors d'une attaque CSRF, l'attaquant se fait passer pour l'utilisateur en l'ammenant à exécuter une requête non désirée sur le site visé
+- **Lors d'une attaque CSRF, l'attaquant se fait passer pour l'utilisateur en l'ammenant à exécuter une requête non désirée sur le site visé**
 - Lors d'une attaque CSRF, l'attaquant se fait passer pour l'utilisateur en gagnant l'accès à son token d'authenfication
-- On se protège d'une attaque CSRF en ajoutant des token sur les pages web
+- **On se protège d'une attaque CSRF en ajoutant des token sur les pages web**
 - On se protège d'une attaque CSRF en configurant correctement OAuth2
 - Aucune réponse correcte
 
