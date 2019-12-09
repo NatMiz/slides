@@ -54,7 +54,7 @@ Cochez les affirmations correctes à propos des méchanismes d'autorisation (Aut
 
 - Les méchanismes d'authorisation concernent l'identification d'un utilisateur
 - **Les méchanismes d'authorisation concernent les règles d'accès à un contenu ou à une resource**
-- OAuth2 est un méchanisme d'autorisation
+- **OAuth2 est un méchanisme d'autorisation**
 - Les méchanismes d'authorisation concernent l'identification d'un navigateur
 - **Les méchanismes d'authorisation impliquent les notions de roles et de propriété**
 - **Un token JWT peut être utiliser pour implémenter un méchanisme d'autorisation**
