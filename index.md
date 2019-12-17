@@ -48,4 +48,10 @@ https://t.me/joinchat/BefqDFgADbd9SEbl-D_ZOg
 - [Regular Expressions and Web Applications](https://tweb-classroom.github.io/slides/06-regular-expressions-and-web-applications.html)
 - [Asynchronous Web Applications](https://tweb-classroom.github.io/slides/07-asynchronous-web-applications.html)
 - [Full Duplex Web Applications](https://tweb-classroom.github.io/slides/08-full-duplex-web-applications.html)
+- [Cookies and Sessions](https://tweb-classroom.github.io/slides/09-cookies.html)
+- [Authentication and Authorization](https://tweb-classroom.github.io/slides/10-authentication-authorization.html)
+- [External Speaker](https://www.dropbox.com/s/fs79qg2a4uajivk/open-source-change-le-monde-bertrand-heighvd-2019.pdf?dl=0) and [Corrections](https://tweb-classroom.github.io/slides/11-corrections.html)
+- [CORS, XSS and HTTPS](https://tweb-classroom.github.io/slides/12-cors-xss-https.html)
+- [REST Architecture](https://tweb-classroom.github.io/slides/13-rest-architecture.html)
+- Declarative UI frameworks
 
